@@ -18,6 +18,6 @@ A fully responsive car rental web application built with **Next.js**, **Tailwind
 - **Clerk**: Authentication service for managing user sessions and security.
 - **Hygraph**: GraphQL-based CMS for managing content.
 
-##Command
+## Command
   npm run dev
 
